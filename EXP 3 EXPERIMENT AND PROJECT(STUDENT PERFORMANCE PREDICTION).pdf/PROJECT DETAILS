@@ -1,0 +1,25 @@
+# Student Performance Prediction Using Decision Tree
+
+## Aim
+
+To predict whether a student will pass or fail using a Decision Tree Classifier.
+
+## Objective
+
+* Train a Decision Tree model on student data.
+* Predict student results (Pass/Fail).
+* Evaluate the model using accuracy and confusion matrix.
+
+## Procedure
+
+1. Import the required libraries.
+2. Load the student performance dataset.
+3. Split the dataset into training and testing data.
+4. Train the Decision Tree Classifier.
+5. Predict the test data.
+6. Calculate accuracy and confusion matrix.
+7. Visualize the decision tree and results.
+
+## Result
+
+The Decision Tree model was successfully implemented and tested on the student performance dataset. The model accurately predicted whether a student would pass or fail based on study hours, attendance, and assignments completed. The obtained accuracy and confusion matrix showed good classification performance.
